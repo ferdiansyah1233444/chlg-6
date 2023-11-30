@@ -1,0 +1,6 @@
+
+IMAGEKIT_PUBLIC_KEY="public_UhAVPnHE1AhisQEUGZcPqWAcq+5="
+IMAGEKIT_SECRET_KEY="private_yPu8LzZaNUoNOdurD3cuVQc009k="
+IMAGEKIT_URL_ENDPOINT="https://ik.imagekit.io/wld4p7nyq/"
+
+DATABASE_URL="postgresql://postgres:jakarta2017@localhost:5432/postgres?schema=public"
